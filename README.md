@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Masashi, aka Nafi</h1>
 <h3 align="center">A full-stack developer and more...</h3>
 
-- 🔭 I’m currently working on [lyron, my custom programming language and compiler](github.co/re-masashi/lyron)
+- 🔭 I’m currently working on [lyron, my custom programming language and compiler](https://github.com/re-masashi/lyron)
 
 - 🌱 I’m currently learning **OCaml, Svelte, LLVM**
 
-- 👯 I’m looking to collaborate on a web framework, [willpyre](github.com/re-masashi/willpyre)
+- 👯 I’m looking to collaborate on a web framework, [willpyre](https://github.com/re-masashi/willpyre)
 
-- 📝 I sometimes write articles on [dev.to/__masashi__](dev.to/__masashi__)
+- 📝 I sometimes write articles on [dev.to/__masashi__](https://dev.to/__masashi__)
 
 - 💬 Ask me about **anything frontend, LLMs, AI/ML (transformers, etc), compiler development, metaprogramming, real-time**
 
