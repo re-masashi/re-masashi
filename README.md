@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Masashi, aka Nafi</h1>
+<h1 align="center">Hi 👋, I'm Masashi</h1>
 <h3 align="center">A full-stack developer and more...</h3>
 
 - 🔭 I’m currently working on [lyron, my custom programming language and compiler](https://github.com/re-masashi/lyron)
