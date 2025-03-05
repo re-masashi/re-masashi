@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **OCaml, Svelte, LLVM**
 
-- 👯 I’m looking to collaborate on a web framework, [willpyre](https://github.com/re-masashi/willpyre)
+- 👯 I’m looking to collaborate on a web framework, [willpyre](https://github.com/re-masashi/willpyre) and an AI based documentation generator [meowdoc](https://github.com/re-masashi/meowdoc)
 
 - 📝 I sometimes write articles on [dev.to/__masashi__](https://dev.to/__masashi__)
 
