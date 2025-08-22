@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **anything frontend, LLMs, AI/ML (transformers, etc), compiler development, metaprogramming, real-time**
 
-- 📫 Reach me at **nafines007@gmail.com**
-
 ![](https://raw.githubusercontent.com/re-masashi/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/re-masashi/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
